@@ -1,3 +1,2 @@
 #!/bin/bash 
-
-hello from git   
+echo "hello from git"   
