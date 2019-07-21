@@ -1,5 +1,5 @@
 #!/bin/bash 
 
-echo"second job of git"
+echo "second job of git"
 
 
